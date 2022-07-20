@@ -1,9 +1,5 @@
 <h2 align="center">Cook</h2>
 
-
-**Nuoroda**:
-- [YouTube](https://www.youtube.com)
-
 ### Project description:
 Chef blog with recipes
 
@@ -12,7 +8,7 @@ Chef blog with recipes
 
 **Steak:**
 - Python >= 3.10
-- Django >= 4
+- Django >= 4.0.4
 - sqlite
 
 ## Development
